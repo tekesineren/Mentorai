@@ -1,0 +1,435 @@
+id,name,city,state,country,website,unitid,ownership,source,level
+1,University of California," Berkeley",Berkeley,CA,USA,,https://www.berkeley.edu,,Public
+2,University of California," Los Angeles (UCLA)",Los Angeles,CA,USA,,https://www.ucla.edu,,Public
+3,University of California," San Diego (UCSD)",La Jolla,CA,USA,,https://www.ucsd.edu,,Public
+4,University of California," Davis",Davis,CA,USA,,https://www.ucdavis.edu,,Public
+5,University of California," Irvine",Irvine,CA,USA,,https://www.uci.edu,,Public
+6,University of California," Santa Barbara",Santa Barbara,CA,USA,,https://www.ucsb.edu,,Public
+7,University of California," Riverside",Riverside,CA,USA,,https://www.ucr.edu,,Public
+8,University of California," Santa Cruz",Santa Cruz,CA,USA,,https://www.ucsc.edu,,Public
+9,University of California," Merced",Merced,CA,USA,,https://www.ucmerced.edu,,Public
+10,California State University," Los Angeles",Los Angeles,CA,USA,,https://www.calstatela.edu,,Public
+11,California State University," Northridge",Northridge,CA,USA,,https://www.csun.edu,,Public
+12,California State University," Long Beach",Long Beach,CA,USA,,https://www.csulb.edu,,Public
+13,California State University," Fullerton",Fullerton,CA,USA,,https://www.fullerton.edu,,Public
+14,California State University," Sacramento",Sacramento,CA,USA,,https://www.csus.edu,,Public
+15,California State University," San Bernardino",San Bernardino,CA,USA,,https://www.csusb.edu,,Public
+16,California State University," Fresno",Fresno,CA,USA,,https://www.fresnostate.edu,,Public
+17,California State University," San Marcos",San Marcos,CA,USA,,https://www.csusm.edu,,Public
+18,California State University," Stanislaus",Turlock,CA,USA,,https://www.csustan.edu,,Public
+19,California State University," East Bay",Hayward,CA,USA,,https://www.csueastbay.edu,,Public
+20,California State University," Monterey Bay",Seaside,CA,USA,,https://www.csumb.edu,,Public
+21,California State University," Channel Islands",Camarillo,CA,USA,,https://www.csuci.edu,,Public
+22,California State University," Bakersfield",Bakersfield,CA,USA,,https://www.csub.edu,,Public
+23,California State University," Chico",Chico,CA,USA,,https://www.csuchico.edu,,Public
+24,California State University," Dominguez Hills",Carson,CA,USA,,https://www.csudh.edu,,Public
+25,California State University," Humboldt",Arcata,CA,USA,,https://www.humboldt.edu,,Public
+26,California State University," Maritime Academy",Vallejo,CA,USA,,https://www.csum.edu,,Public
+27,San Diego State University,San Diego,CA,USA,https://www.sdsu.edu,,Public,,4-year
+28,San Francisco State University,San Francisco,CA,USA,https://www.sfsu.edu,,Public,,4-year
+29,San José State University,San Jose,CA,USA,https://www.sjsu.edu,,Public,,4-year
+30,Sonoma State University,Rohnert Park,CA,USA,https://www.sonoma.edu,,Public,,4-year
+31,Stanford University,Stanford,CA,USA,https://www.stanford.edu,,Private,,4-year
+32,University of Southern California (USC),Los Angeles,CA,USA,https://www.usc.edu,,Private,,4-year
+33,Pepperdine University,Malibu,CA,USA,https://www.pepperdine.edu,,Private,,4-year
+34,Loyola Marymount University,Los Angeles,CA,USA,https://www.lmu.edu,,Private,,4-year
+35,University of San Diego,San Diego,CA,USA,https://www.sandiego.edu,,Private,,4-year
+36,University of San Francisco,San Francisco,CA,USA,https://www.usfca.edu,,Private,,4-year
+37,Santa Clara University,Santa Clara,CA,USA,https://www.scu.edu,,Private,,4-year
+38,Chapman University,Orange,CA,USA,https://www.chapman.edu,,Private,,4-year
+39,Biola University,La Mirada,CA,USA,https://www.biola.edu,,Private,,4-year
+40,Azusa Pacific University,Azusa,CA,USA,https://www.apu.edu,,Private,,4-year
+41,California Baptist University,Riverside,CA,USA,https://www.calbaptist.edu,,Private,,4-year
+42,California Lutheran University,Thousand Oaks,CA,USA,https://www.callutheran.edu,,Private,,4-year
+43,Concordia University Irvine,Irvine,CA,USA,https://www.cui.edu,,Private,,4-year
+44,Fresno Pacific University,Fresno,CA,USA,https://www.fresno.edu,,Private,,4-year
+45,Point Loma Nazarene University,San Diego,CA,USA,https://www.pointloma.edu,,Private,,4-year
+46,Vanguard University,Costa Mesa,CA,USA,https://www.vanguard.edu,,Private,,4-year
+47,La Sierra University,Riverside,CA,USA,https://www.lasierra.edu,,Private,,4-year
+48,Westmont College,Santa Barbara,CA,USA,https://www.westmont.edu,,Private,,4-year
+49,Whittier College,Whittier,CA,USA,https://www.whittier.edu,,Private,,4-year
+50,Notre Dame de Namur University,Belmont,CA,USA,https://www.ndnu.edu,,Private,,4-year
+51,Dominican University of California,San Rafael,CA,USA,https://www.dominican.edu,,Private,,4-year
+52,Mount Saint Mary's University,Los Angeles,CA,USA,https://www.msmu.edu,,Private,,4-year
+53,Occidental College,Los Angeles,CA,USA,https://www.oxy.edu,,Private,,4-year
+54,The Master’s University,Santa Clarita,CA,USA,https://www.masters.edu,,Private,,4-year
+55,Simpson University,Redding,CA,USA,https://www.simpsonu.edu,,Private,,4-year
+56,William Jessup University,Rocklin,CA,USA,https://www.jessup.edu,,Private,,4-year
+57,Southern California Seminary,El Cajon,CA,USA,https://www.socalsem.edu,,Private,,4-year
+58,Bethesda University,Anaheim,CA,USA,https://www.buc.edu,,Private,,4-year
+59,St. Katherine University,San Marcos,CA,USA,https://www.stkath.org,,Private,,4-year
+60,San Diego Christian College,Santee,CA,USA,https://www.sdcc.edu,,Private,,4-year
+61,Life Pacific University,San Dimas,CA,USA,https://www.lifepacific.edu,,Private,,4-year
+62,John Paul the Great Catholic University,Escondido,CA,USA,https://www.jpcatholic.edu,,Private,,4-year
+63,California Institute of Technology (Caltech),Pasadena,CA,USA,https://www.caltech.edu,,Private,,4-year
+64,California Institute of the Arts (CalArts),Valencia,CA,USA,https://www.calarts.edu,,Private,,4-year
+65,ArtCenter College of Design,Pasadena,CA,USA,https://www.artcenter.edu,,Private,,4-year
+66,Otis College of Art and Design,Los Angeles,CA,USA,https://www.otis.edu,,Private,,4-year
+67,Academy of Art University,San Francisco,CA,USA,https://www.academyart.edu,,Private,,4-year
+68,California College of the Arts,San Francisco,CA,USA,https://www.cca.edu,,Private,,4-year
+69,NewSchool of Architecture and Design,San Diego,CA,USA,https://www.newschoolarch.edu,,Private,,4-year
+70,Musicians Institute,Hollywood,CA,USA,https://www.mi.edu,,Private,,4-year
+71,Columbia College Hollywood,Los Angeles,CA,USA,https://www.columbiacollege.edu,,Private,,4-year
+72,California Christian College,Fresno,CA,USA,https://www.calchristian.edu,,Private,,4-year
+73,Humphreys University,Stockton,CA,USA,https://www.humphreys.edu,,Private,,4-year
+74,National University,San Diego,CA,USA,https://www.nu.edu,,Private,,4-year
+75,West Coast University,Los Angeles,CA,USA,https://westcoastuniversity.edu,,Private,,4-year
+76,Saybrook University,Pasadena,CA,USA,https://www.saybrook.edu,,Private,,4-year
+77,Alliant International University,San Diego,CA,USA,https://www.alliant.edu,,Private,,4-year
+78,Touro University California,Vallejo,CA,USA,https://www.tu.edu,,Private,,4-year
+79,Pacific Union College,Angwin,CA,USA,https://www.puc.edu,,Private,,4-year
+80,Zaytuna College,Berkeley,CA,USA,https://www.zaytuna.edu,,Private,,4-year
+81,Fielding Graduate University,Santa Barbara,CA,USA,https://www.fielding.edu,,Private,,4-year
+82,Claremont Graduate University,Claremont,CA,USA,https://www.cgu.edu,,Private,,4-year
+83,Keck Graduate Institute,Claremont,CA,USA,https://www.kgi.edu,,Private,,4-year
+84,Southern California University of Health Sciences,Whittier,CA,USA,https://www.scuhs.edu,,Private,,4-year
+85,Life Chiropractic College West,Hayward,CA,USA,https://lifewest.edu,,Private,,4-year
+86,California Northstate University,Elk Grove,CA,USA,https://www.cnsu.edu,,Private,,4-year
+87,California Health Sciences University,Clovis,CA,USA,https://www.chsu.edu,,Private,,4-year
+88,Northwestern Polytechnic University,Fremont,CA,USA,https://www.npu.edu,,Private,,4-year
+89,Lincoln University,Oakland,CA,USA,https://www.lincolnuca.edu,,Private,,4-year
+90,Pacific Oaks College,Pasadena,CA,USA,https://www.pacificoaks.edu,,Private,,4-year
+91,Los Angeles Pacific University,San Dimas,CA,USA,https://www.lapu.edu,,Private,,4-year
+92,Horizons University (California Branch),Los Angeles,CA,USA,https://www.horizonsuniversity.org,,Private,,4-year
+93,Hope College of Arts & Sciences,Anaheim,CA,USA,https://www.hcas.edu,,Private,,4-year
+94,Chicago School of Professional Psychology (LA Campus),Los Angeles,CA,USA,https://www.thechicagoschool.edu,,Private,,4-year
+95,"California Polytechnic State University, San Luis Obispo",San Luis Obispo,CA,USA,https://www.calpoly.edu,,Public,,4-year
+96,"California State Polytechnic University, Pomona",Pomona,CA,USA,https://www.cpp.edu,,Public,,4-year
+97,Allan Hancock College,Santa Maria,CA,USA,https://www.hancockcollege.edu,,Public,,2-year
+98,American River College,Sacramento,CA,USA,https://arc.losrios.edu,,Public,,2-year
+99,Antelope Valley College,Lancaster,CA,USA,https://www.avc.edu,,Public,,2-year
+100,Bakersfield College,Bakersfield,CA,USA,https://www.bakersfieldcollege.edu,,Public,,2-year
+101,Barstow Community College,Barstow,CA,USA,https://www.barstow.edu,,Public,,2-year
+102,Berkeley City College,Berkeley,CA,USA,https://www.berkeleycitycollege.edu,,Public,,2-year
+103,Butte College,Oroville,CA,USA,https://www.butte.edu,,Public,,2-year
+104,Cabrillo College,Aptos,CA,USA,https://www.cabrillo.edu,,Public,,2-year
+105,Cañada College,Redwood City,CA,USA,https://canadacollege.edu,,Public,,2-year
+106,Cerritos College,Norwalk,CA,USA,https://www.cerritos.edu,,Public,,2-year
+107,Cerro Coso Community College,Ridgecrest,CA,USA,https://www.cerrocoso.edu,,Public,,2-year
+108,Chabot College,Hayward,CA,USA,https://www.chabotcollege.edu,,Public,,2-year
+109,Chaffey College,Rancho Cucamonga,CA,USA,https://www.chaffey.edu,,Public,,2-year
+110,Citrus College,Glendora,CA,USA,https://www.citruscollege.edu,,Public,,2-year
+111,City College of San Francisco,San Francisco,CA,USA,https://www.ccsf.edu,,Public,,2-year
+112,Clovis Community College,Fresno,CA,USA,https://www.cloviscollege.edu,,Public,,2-year
+113,Coastline Community College,Fountain Valley,CA,USA,https://www.coastline.edu,,Public,,2-year
+114,College of Alameda,Alameda,CA,USA,https://alameda.peralta.edu,,Public,,2-year
+115,College of Marin,Kentfield,CA,USA,https://www1.marin.edu,,Public,,2-year
+116,College of San Mateo,San Mateo,CA,USA,https://www.collegeofsanmateo.edu,,Public,,2-year
+117,College of the Canyons,Santa Clarita,CA,USA,https://www.canyons.edu,,Public,,2-year
+118,College of the Desert,Palm Desert,CA,USA,https://www.collegeofthedesert.edu,,Public,,2-year
+119,College of the Redwoods,Eureka,CA,USA,https://www.redwoods.edu,,Public,,2-year
+120,College of the Sequoias,Visalia,CA,USA,https://www.cos.edu,,Public,,2-year
+121,College of the Siskiyous,Weed,CA,USA,https://www.siskiyous.edu,,Public,,2-year
+122,Columbia College,Sonora,CA,USA,https://www.gocolumbia.edu,,Public,,2-year
+123,Compton College,Compton,CA,USA,https://www.compton.edu,,Public,,2-year
+124,Contra Costa College,San Pablo,CA,USA,https://www.contracosta.edu,,Public,,2-year
+125,Cosumnes River College,Sacramento,CA,USA,https://crc.losrios.edu,,Public,,2-year
+126,Crafton Hills College,Yucaipa,CA,USA,https://www.craftonhills.edu,,Public,,2-year
+127,Cuesta College,San Luis Obispo,CA,USA,https://www.cuesta.edu,,Public,,2-year
+128,Cuyamaca College,El Cajon,CA,USA,https://www.cuyamaca.edu,,Public,,2-year
+129,Cypress College,Cypress,CA,USA,https://www.cypresscollege.edu,,Public,,2-year
+130,De Anza College,Cupertino,CA,USA,https://www.deanza.edu,,Public,,2-year
+131,Diablo Valley College,Pleasant Hill,CA,USA,https://www.dvc.edu,,Public,,2-year
+132,East Los Angeles College,Monterey Park,CA,USA,https://www.elac.edu,,Public,,2-year
+133,El Camino College,Torrance,CA,USA,https://www.elcamino.edu,,Public,,2-year
+134,Evergreen Valley College,San Jose,CA,USA,https://www.evc.edu,,Public,,2-year
+135,Feather River College,Quincy,CA,USA,https://www.frc.edu,,Public,,2-year
+136,Folsom Lake College,Folsom,CA,USA,https://flc.losrios.edu,,Public,,2-year
+137,Foothill College,Los Altos Hills,CA,USA,https://www.foothill.edu,,Public,,2-year
+138,Fresno City College,Fresno,CA,USA,https://www.fresnocitycollege.edu,,Public,,2-year
+139,Fullerton College,Fullerton,CA,USA,https://www.fullcoll.edu,,Public,,2-year
+140,Gavilan College,Gilroy,CA,USA,https://www.gavilan.edu,,Public,,2-year
+141,Glendale Community College,Glendale,CA,USA,https://www.glendale.edu,,Public,,2-year
+142,Golden West College,Huntington Beach,CA,USA,https://www.goldenwestcollege.edu,,Public,,2-year
+143,Grossmont College,El Cajon,CA,USA,https://www.grossmont.edu,,Public,,2-year
+144,Hartnell College,Salinas,CA,USA,https://www.hartnell.edu,,Public,,2-year
+145,Imperial Valley College,Imperial,CA,USA,https://www.imperial.edu,,Public,,2-year
+146,Irvine Valley College,Irvine,CA,USA,https://www.ivc.edu,,Public,,2-year
+147,Lake Tahoe Community College,South Lake Tahoe,CA,USA,https://www.ltcc.edu,,Public,,2-year
+148,Laney College,Oakland,CA,USA,https://laney.edu,,Public,,2-year
+149,Las Positas College,Livermore,CA,USA,https://www.laspositascollege.edu,,Public,,2-year
+150,Lassen College,Susanville,CA,USA,https://www.lassencollege.edu,,Public,,2-year
+151,Long Beach City College,Long Beach,CA,USA,https://www.lbcc.edu,,Public,,2-year
+152,Los Angeles City College,Los Angeles,CA,USA,https://www.lacitycollege.edu,,Public,,2-year
+153,Los Angeles Harbor College,Wilmington,CA,USA,https://www.lahc.edu,,Public,,2-year
+154,Los Angeles Mission College,Los Angeles,CA,USA,https://www.lamission.edu,,Public,,2-year
+155,Los Angeles Pierce College,Woodland Hills,CA,USA,https://www.piercecollege.edu,,Public,,2-year
+156,Los Angeles Southwest College,Los Angeles,CA,USA,https://www.lasc.edu,,Public,,2-year
+157,Los Angeles Trade-Tech College,Los Angeles,CA,USA,https://www.lattc.edu,,Public,,2-year
+158,Los Angeles Valley College,Valley Glen,CA,USA,https://www.lavc.edu,,Public,,2-year
+159,Los Medanos College,Pittsburg,CA,USA,https://www.losmedanos.edu,,Public,,2-year
+160,Marin College,Kentfield,CA,USA,https://www1.marin.edu,,Public,,2-year
+161,Mendocino College,Ukiah,CA,USA,https://www.mendocino.edu,,Public,,2-year
+162,Merced College,Merced,CA,USA,https://www.mccd.edu,,Public,,2-year
+163,Merritt College,Oakland,CA,USA,https://www.merritt.edu,,Public,,2-year
+164,MiraCosta College,Oceanside,CA,USA,https://www.miracosta.edu,,Public,,2-year
+165,Mission College,Santa Clara,CA,USA,https://missioncollege.edu,,Public,,2-year
+166,Modesto Junior College,Modesto,CA,USA,https://www.mjc.edu,,Public,,2-year
+167,Monterey Peninsula College,Monterey,CA,USA,https://www.mpc.edu,,Public,,2-year
+168,Moorpark College,Moorpark,CA,USA,https://www.moorparkcollege.edu,,Public,,2-year
+169,Moreno Valley College,Moreno Valley,CA,USA,https://www.mvc.edu,,Public,,2-year
+170,Mount San Antonio College,Walnut,CA,USA,https://www.mtsac.edu,,Public,,2-year
+171,Mt. San Jacinto College,San Jacinto,CA,USA,https://www.msjc.edu,,Public,,2-year
+172,Napa Valley College,Napa,CA,USA,https://www.napavalley.edu,,Public,,2-year
+173,Norco College,Norco,CA,USA,https://www.norcocollege.edu,,Public,,2-year
+174,Ohlone College,Fremont,CA,USA,https://www.ohlone.edu,,Public,,2-year
+175,Orange Coast College,Costa Mesa,CA,USA,https://orangecoastcollege.edu,,Public,,2-year
+176,Oxnard College,Oxnard,CA,USA,https://www.oxnardcollege.edu,,Public,,2-year
+177,Palo Verde College,Blythe,CA,USA,https://www.paloverde.edu,,Public,,2-year
+178,Palomar College,San Marcos,CA,USA,https://www.palomar.edu,,Public,,2-year
+179,Pasadena City College,Pasadena,CA,USA,https://www.pasadena.edu,,Public,,2-year
+180,Porterville College,Porterville,CA,USA,https://www.portervillecollege.edu,,Public,,2-year
+181,Reedley College,Reedley,CA,USA,https://www.reedleycollege.edu,,Public,,2-year
+182,Rio Hondo College,Whittier,CA,USA,https://www.riohondo.edu,,Public,,2-year
+183,Riverside City College,Riverside,CA,USA,https://www.rcc.edu,,Public,,2-year
+184,Sacramento City College,Sacramento,CA,USA,https://www.scc.losrios.edu,,Public,,2-year
+185,Saddleback College,Mission Viejo,CA,USA,https://www.saddleback.edu,,Public,,2-year
+186,San Bernardino Valley College,San Bernardino,CA,USA,https://www.valleycollege.edu,,Public,,2-year
+187,San Diego City College,San Diego,CA,USA,https://www.sdcity.edu,,Public,,2-year
+188,San Diego Mesa College,San Diego,CA,USA,https://www.sdmesa.edu,,Public,,2-year
+189,San Diego Miramar College,San Diego,CA,USA,https://www.sdmiramar.edu,,Public,,2-year
+190,San Joaquin Delta College,Stockton,CA,USA,https://www.deltacollege.edu,,Public,,2-year
+191,San Jose City College,San Jose,CA,USA,https://www.sjcc.edu,,Public,,2-year
+192,Santa Ana College,Santa Ana,CA,USA,https://www.sac.edu,,Public,,2-year
+193,Santa Barbara City College,Santa Barbara,CA,USA,https://www.sbcc.edu,,Public,,2-year
+194,Santa Monica College,Santa Monica,CA,USA,https://www.smc.edu,,Public,,2-year
+195,Santa Rosa Junior College,Santa Rosa,CA,USA,https://www.santarosa.edu,,Public,,2-year
+196,Santiago Canyon College,Orange,CA,USA,https://www.sccollege.edu,,Public,,2-year
+197,Shasta College,Redding,CA,USA,https://www.shastacollege.edu,,Public,,2-year
+198,Sierra College,Rocklin,CA,USA,https://www.sierracollege.edu,,Public,,2-year
+199,Skyline College,San Bruno,CA,USA,https://www.skylinecollege.edu,,Public,,2-year
+200,Solano Community College,Fairfield,CA,USA,https://www.solano.edu,,Public,,2-year
+201,Southwestern College,Chula Vista,CA,USA,https://www.swccd.edu,,Public,,2-year
+202,Taft College,Taft,CA,USA,https://www.taftcollege.edu,,Public,,2-year
+203,Ventura College,Ventura,CA,USA,https://www.venturacollege.edu,,Public,,2-year
+204,Victor Valley College,Victorville,CA,USA,https://www.vvc.edu,,Public,,2-year
+205,West Hills College Coalinga,Coalinga,CA,USA,https://www.westhillscollege.com/coalinga,,Public,,2-year
+206,West Hills College Lemoore,Lemoore,CA,USA,https://www.westhillscollege.com/lemoore,,Public,,2-year
+207,West Los Angeles College,Culver City,CA,USA,https://www.wlac.edu,,Public,,2-year
+208,West Valley College,Saratoga,CA,USA,https://www.westvalley.edu,,Public,,2-year
+209,Woodland Community College,Woodland,CA,USA,https://wcc.yccd.edu,,Public,,2-year
+210,Yuba College,Marysville,CA,USA,https://www.yubacollege.edu,,Public,,2-year
+211,Allan Hancock College,Santa Maria,CA,USA,https://www.hancockcollege.edu,,Public,,2-year
+212,American River College,Sacramento,CA,USA,https://arc.losrios.edu,,Public,,2-year
+213,Antelope Valley College,Lancaster,CA,USA,https://www.avc.edu,,Public,,2-year
+214,Bakersfield College,Bakersfield,CA,USA,https://www.bakersfieldcollege.edu,,Public,,2-year
+215,Barstow Community College,Barstow,CA,USA,https://www.barstow.edu,,Public,,2-year
+216,Berkeley City College,Berkeley,CA,USA,https://www.berkeleycitycollege.edu,,Public,,2-year
+217,Butte College,Oroville,CA,USA,https://www.butte.edu,,Public,,2-year
+218,Cabrillo College,Aptos,CA,USA,https://www.cabrillo.edu,,Public,,2-year
+219,Cañada College,Redwood City,CA,USA,https://canadacollege.edu,,Public,,2-year
+220,Cerritos College,Norwalk,CA,USA,https://www.cerritos.edu,,Public,,2-year
+221,Cerro Coso Community College,Ridgecrest,CA,USA,https://www.cerrocoso.edu,,Public,,2-year
+222,Chabot College,Hayward,CA,USA,https://www.chabotcollege.edu,,Public,,2-year
+223,Chaffey College,Rancho Cucamonga,CA,USA,https://www.chaffey.edu,,Public,,2-year
+224,Citrus College,Glendora,CA,USA,https://www.citruscollege.edu,,Public,,2-year
+225,City College of San Francisco,San Francisco,CA,USA,https://www.ccsf.edu,,Public,,2-year
+226,Clovis Community College,Fresno,CA,USA,https://www.cloviscollege.edu,,Public,,2-year
+227,Coastline Community College,Fountain Valley,CA,USA,https://www.coastline.edu,,Public,,2-year
+228,College of Alameda,Alameda,CA,USA,https://alameda.peralta.edu,,Public,,2-year
+229,College of Marin,Kentfield,CA,USA,https://www1.marin.edu,,Public,,2-year
+230,College of San Mateo,San Mateo,CA,USA,https://www.collegeofsanmateo.edu,,Public,,2-year
+231,College of the Canyons,Santa Clarita,CA,USA,https://www.canyons.edu,,Public,,2-year
+232,College of the Desert,Palm Desert,CA,USA,https://www.collegeofthedesert.edu,,Public,,2-year
+233,College of the Redwoods,Eureka,CA,USA,https://www.redwoods.edu,,Public,,2-year
+234,College of the Sequoias,Visalia,CA,USA,https://www.cos.edu,,Public,,2-year
+235,College of the Siskiyous,Weed,CA,USA,https://www.siskiyous.edu,,Public,,2-year
+236,Columbia College,Sonora,CA,USA,https://www.gocolumbia.edu,,Public,,2-year
+237,Compton College,Compton,CA,USA,https://www.compton.edu,,Public,,2-year
+238,Contra Costa College,San Pablo,CA,USA,https://www.contracosta.edu,,Public,,2-year
+239,Cosumnes River College,Sacramento,CA,USA,https://crc.losrios.edu,,Public,,2-year
+240,Crafton Hills College,Yucaipa,CA,USA,https://www.craftonhills.edu,,Public,,2-year
+241,Cuesta College,San Luis Obispo,CA,USA,https://www.cuesta.edu,,Public,,2-year
+242,Cuyamaca College,El Cajon,CA,USA,https://www.cuyamaca.edu,,Public,,2-year
+243,Cypress College,Cypress,CA,USA,https://www.cypresscollege.edu,,Public,,2-year
+244,De Anza College,Cupertino,CA,USA,https://www.deanza.edu,,Public,,2-year
+245,Diablo Valley College,Pleasant Hill,CA,USA,https://www.dvc.edu,,Public,,2-year
+246,East Los Angeles College,Monterey Park,CA,USA,https://www.elac.edu,,Public,,2-year
+247,El Camino College,Torrance,CA,USA,https://www.elcamino.edu,,Public,,2-year
+248,Evergreen Valley College,San Jose,CA,USA,https://www.evc.edu,,Public,,2-year
+249,Feather River College,Quincy,CA,USA,https://www.frc.edu,,Public,,2-year
+250,Folsom Lake College,Folsom,CA,USA,https://flc.losrios.edu,,Public,,2-year
+251,Foothill College,Los Altos Hills,CA,USA,https://www.foothill.edu,,Public,,2-year
+252,Fresno City College,Fresno,CA,USA,https://www.fresnocitycollege.edu,,Public,,2-year
+253,Fullerton College,Fullerton,CA,USA,https://www.fullcoll.edu,,Public,,2-year
+254,Gavilan College,Gilroy,CA,USA,https://www.gavilan.edu,,Public,,2-year
+255,Glendale Community College,Glendale,CA,USA,https://www.glendale.edu,,Public,,2-year
+256,Golden West College,Huntington Beach,CA,USA,https://www.goldenwestcollege.edu,,Public,,2-year
+257,Grossmont College,El Cajon,CA,USA,https://www.grossmont.edu,,Public,,2-year
+258,Hartnell College,Salinas,CA,USA,https://www.hartnell.edu,,Public,,2-year
+259,Imperial Valley College,Imperial,CA,USA,https://www.imperial.edu,,Public,,2-year
+260,Irvine Valley College,Irvine,CA,USA,https://www.ivc.edu,,Public,,2-year
+261,Lake Tahoe Community College,South Lake Tahoe,CA,USA,https://www.ltcc.edu,,Public,,2-year
+262,Laney College,Oakland,CA,USA,https://laney.edu,,Public,,2-year
+263,Las Positas College,Livermore,CA,USA,https://www.laspositascollege.edu,,Public,,2-year
+264,Lassen College,Susanville,CA,USA,https://www.lassencollege.edu,,Public,,2-year
+265,Long Beach City College,Long Beach,CA,USA,https://www.lbcc.edu,,Public,,2-year
+266,Los Angeles City College,Los Angeles,CA,USA,https://www.lacitycollege.edu,,Public,,2-year
+267,Los Angeles Harbor College,Wilmington,CA,USA,https://www.lahc.edu,,Public,,2-year
+268,Los Angeles Mission College,Los Angeles,CA,USA,https://www.lamission.edu,,Public,,2-year
+269,Los Angeles Pierce College,Woodland Hills,CA,USA,https://www.piercecollege.edu,,Public,,2-year
+270,Los Angeles Southwest College,Los Angeles,CA,USA,https://www.lasc.edu,,Public,,2-year
+271,Los Angeles Trade-Tech College,Los Angeles,CA,USA,https://www.lattc.edu,,Public,,2-year
+272,Los Angeles Valley College,Valley Glen,CA,USA,https://www.lavc.edu,,Public,,2-year
+273,Los Medanos College,Pittsburg,CA,USA,https://www.losmedanos.edu,,Public,,2-year
+274,Marin College,Kentfield,CA,USA,https://www1.marin.edu,,Public,,2-year
+275,Mendocino College,Ukiah,CA,USA,https://www.mendocino.edu,,Public,,2-year
+276,Merced College,Merced,CA,USA,https://www.mccd.edu,,Public,,2-year
+277,Merritt College,Oakland,CA,USA,https://www.merritt.edu,,Public,,2-year
+278,MiraCosta College,Oceanside,CA,USA,https://www.miracosta.edu,,Public,,2-year
+279,Mission College,Santa Clara,CA,USA,https://missioncollege.edu,,Public,,2-year
+280,Modesto Junior College,Modesto,CA,USA,https://www.mjc.edu,,Public,,2-year
+281,Monterey Peninsula College,Monterey,CA,USA,https://www.mpc.edu,,Public,,2-year
+282,Moorpark College,Moorpark,CA,USA,https://www.moorparkcollege.edu,,Public,,2-year
+283,Moreno Valley College,Moreno Valley,CA,USA,https://www.mvc.edu,,Public,,2-year
+284,Mount San Antonio College,Walnut,CA,USA,https://www.mtsac.edu,,Public,,2-year
+285,Mt. San Jacinto College,San Jacinto,CA,USA,https://www.msjc.edu,,Public,,2-year
+286,Napa Valley College,Napa,CA,USA,https://www.napavalley.edu,,Public,,2-year
+287,Norco College,Norco,CA,USA,https://www.norcocollege.edu,,Public,,2-year
+288,Ohlone College,Fremont,CA,USA,https://www.ohlone.edu,,Public,,2-year
+289,Orange Coast College,Costa Mesa,CA,USA,https://orangecoastcollege.edu,,Public,,2-year
+290,Oxnard College,Oxnard,CA,USA,https://www.oxnardcollege.edu,,Public,,2-year
+291,Palo Verde College,Blythe,CA,USA,https://www.paloverde.edu,,Public,,2-year
+292,Palomar College,San Marcos,CA,USA,https://www.palomar.edu,,Public,,2-year
+293,Pasadena City College,Pasadena,CA,USA,https://www.pasadena.edu,,Public,,2-year
+294,Porterville College,Porterville,CA,USA,https://www.portervillecollege.edu,,Public,,2-year
+295,Reedley College,Reedley,CA,USA,https://www.reedleycollege.edu,,Public,,2-year
+296,Rio Hondo College,Whittier,CA,USA,https://www.riohondo.edu,,Public,,2-year
+297,Riverside City College,Riverside,CA,USA,https://www.rcc.edu,,Public,,2-year
+298,Sacramento City College,Sacramento,CA,USA,https://www.scc.losrios.edu,,Public,,2-year
+299,Saddleback College,Mission Viejo,CA,USA,https://www.saddleback.edu,,Public,,2-year
+300,San Bernardino Valley College,San Bernardino,CA,USA,https://www.valleycollege.edu,,Public,,2-year
+301,San Diego City College,San Diego,CA,USA,https://www.sdcity.edu,,Public,,2-year
+302,San Diego Mesa College,San Diego,CA,USA,https://www.sdmesa.edu,,Public,,2-year
+303,San Diego Miramar College,San Diego,CA,USA,https://www.sdmiramar.edu,,Public,,2-year
+304,San Joaquin Delta College,Stockton,CA,USA,https://www.deltacollege.edu,,Public,,2-year
+305,San Jose City College,San Jose,CA,USA,https://www.sjcc.edu,,Public,,2-year
+306,Santa Ana College,Santa Ana,CA,USA,https://www.sac.edu,,Public,,2-year
+307,Santa Barbara City College,Santa Barbara,CA,USA,https://www.sbcc.edu,,Public,,2-year
+308,Santa Monica College,Santa Monica,CA,USA,https://www.smc.edu,,Public,,2-year
+309,Santa Rosa Junior College,Santa Rosa,CA,USA,https://www.santarosa.edu,,Public,,2-year
+310,Santiago Canyon College,Orange,CA,USA,https://www.sccollege.edu,,Public,,2-year
+311,Shasta College,Redding,CA,USA,https://www.shastacollege.edu,,Public,,2-year
+312,Sierra College,Rocklin,CA,USA,https://www.sierracollege.edu,,Public,,2-year
+313,Skyline College,San Bruno,CA,USA,https://www.skylinecollege.edu,,Public,,2-year
+314,Solano Community College,Fairfield,CA,USA,https://www.solano.edu,,Public,,2-year
+315,Southwestern College,Chula Vista,CA,USA,https://www.swccd.edu,,Public,,2-year
+316,Taft College,Taft,CA,USA,https://www.taftcollege.edu,,Public,,2-year
+317,Ventura College,Ventura,CA,USA,https://www.venturacollege.edu,,Public,,2-year
+318,Victor Valley College,Victorville,CA,USA,https://www.vvc.edu,,Public,,2-year
+319,West Hills College Coalinga,Coalinga,CA,USA,https://www.westhillscollege.com/coalinga,,Public,,2-year
+320,West Hills College Lemoore,Lemoore,CA,USA,https://www.westhillscollege.com/lemoore,,Public,,2-year
+321,West Los Angeles College,Culver City,CA,USA,https://www.wlac.edu,,Public,,2-year
+322,West Valley College,Saratoga,CA,USA,https://www.westvalley.edu,,Public,,2-year
+323,Woodland Community College,Woodland,CA,USA,https://wcc.yccd.edu,,Public,,2-year
+324,Yuba College,Marysville,CA,USA,https://www.yubacollege.edu,,Public,,2-year
+325,Claremont McKenna College,Claremont,CA,USA,https://www.cmc.edu,,Private,,4-year
+326,Harvey Mudd College,Claremont,CA,USA,https://www.hmc.edu,,Private,,4-year
+327,Pomona College,Claremont,CA,USA,https://www.pomona.edu,,Private,,4-year
+328,Scripps College,Claremont,CA,USA,https://www.scrippscollege.edu,,Private,,4-year
+329,Pitzer College,Claremont,CA,USA,https://www.pitzer.edu,,Private,,4-year
+330,Mills College at Northeastern University,Oakland,CA,USA,https://www.northeastern.edu/oakland,,Private,,4-year
+331,Dominican University of California,San Rafael,CA,USA,https://www.dominican.edu,,Private,,4-year
+332,Saint Mary's College of California,Moraga,CA,USA,https://www.stmarys-ca.edu,,Private,,4-year
+333,University of the Pacific,Stockton,CA,USA,https://www.pacific.edu,,Private,,4-year
+334,Madera Community College,Madera,CA,USA,https://www.maderacollege.edu,,Public,,2-year
+335,Calbright College,Sacramento,CA,USA,https://www.calbright.org,,Public,,2-year
+336,Copper Mountain College,Joshua Tree,CA,USA,https://www.cmccd.edu,,Public,,2-year
+337,The University of Texas at Austin,Austin,TX,USA,,,Public,,4-year
+338,The University of Texas at Dallas,Richardson,TX,USA,,,Public,,4-year
+339,The University of Texas at Arlington,Arlington,TX,USA,,,Public,,4-year
+340,The University of Texas at San Antonio,San Antonio,TX,USA,,,Public,,4-year
+341,The University of Texas Rio Grande Valley,Edinburg,TX,USA,,,Public,,4-year
+342,The University of Texas at El Paso,El Paso,TX,USA,,,Public,,4-year
+343,The University of Texas at Tyler,Tyler,TX,USA,,,Public,,4-year
+344,The University of Texas Permian Basin,Odessa,TX,USA,,,Public,,4-year
+345,Texas A&M University,College Station,TX,USA,,,Public,,4-year
+346,Texas A&M University-Corpus Christi,Corpus Christi,TX,USA,,,Public,,4-year
+347,Texas A&M University-Commerce,Commerce,TX,USA,,,Public,,4-year
+348,Texas A&M University-Kingsville,Kingsville,TX,USA,,,Public,,4-year
+349,Texas A&M University at Galveston,Galveston,TX,USA,,,Public,,4-year
+350,West Texas A&M University,Canyon,TX,USA,,,Public,,4-year
+351,Sam Houston State University,Huntsville,TX,USA,,,Public,,4-year
+352,Stephen F. Austin State University,Nacogdoches,TX,USA,,,Public,,4-year
+353,Texas State University,San Marcos,TX,USA,,,Public,,4-year
+354,University of Houston,Houston,TX,USA,,,Public,,4-year
+355,University of Houston-Clear Lake,Houston,TX,USA,,,Public,,4-year
+356,University of Houston-Downtown,Houston,TX,USA,,,Public,,4-year
+357,University of Houston-Victoria,Victoria,TX,USA,,,Public,,4-year
+358,Texas Tech University,Lubbock,TX,USA,,,Public,,4-year
+359,Texas Tech University Health Sciences Center,Lubbock,TX,USA,,,Public,,4-year
+360,Tarleton State University,Stephenville,TX,USA,,,Public,,4-year
+361,Midwestern State University,Wichita Falls,TX,USA,,,Public,,4-year
+362,Angelo State University,San Angelo,TX,USA,,,Public,,4-year
+363,Lamar University,Beaumont,TX,USA,,,Public,,4-year
+364,Texas Southern University,Houston,TX,USA,,,Public,,4-year
+365,Texas Woman's University,Denton,TX,USA,,,Public,,4-year
+366,Sul Ross State University,Alpine,TX,USA,,,Public,,4-year
+367,Rice University,Houston,TX,USA,,,Private,,4-year
+368,Baylor University,Waco,TX,USA,,,Private,,4-year
+369,Texas Christian University (TCU),Fort Worth,TX,USA,,,Private,,4-year
+370,Southern Methodist University (SMU),Dallas,TX,USA,,,Private,,4-year
+371,Abilene Christian University,Abilene,TX,USA,,,Private,,4-year
+372,Houston Christian University,Houston,TX,USA,,,Private,,4-year
+373,Trinity University,San Antonio,TX,USA,,,Private,,4-year
+374,University of St. Thomas,Houston,TX,USA,,,Private,,4-year
+375,St. Edward's University,Austin,TX,USA,,,Private,,4-year
+376,Texas Wesleyan University,Fort Worth,TX,USA,,,Private,,4-year
+377,LeTourneau University,Longview,TX,USA,,,Private,,4-year
+378,Southwestern University,Georgetown,TX,USA,,,Private,,4-year
+379,Howard Payne University,Brownwood,TX,USA,,,Private,,4-year
+380,Jarvis Christian University,Hawkins,TX,USA,,,Private,,4-year
+381,Lubbock Christian University,Lubbock,TX,USA,,,Private,,4-year
+382,Wayland Baptist University,Plainview,TX,USA,,,Private,,4-year
+383,Hardin-Simmons University,Abilene,TX,USA,,,Private,,4-year
+384,East Texas Baptist University,Marshall,TX,USA,,,Private,,4-year
+385,McMurry University,Abilene,TX,USA,,,Private,,4-year
+386,Texas Lutheran University,Seguin,TX,USA,,,Private,,4-year
+387,University of Mary Hardin-Baylor,Belton,TX,USA,,,Private,,4-year
+388,Concordia University Texas,Austin,TX,USA,,,Private,,4-year
+389,Paul Quinn College,Dallas,TX,USA,,,Private,,4-year
+390,Wiley University,Marshall,TX,USA,,,Private,,4-year
+391,Texas College,Tyler,TX,USA,,,Private,,4-year
+392,Dallas College,Dallas,TX,USA,,,Public,,2-year
+393,Houston Community College,Houston,TX,USA,,,Public,,2-year
+394,Austin Community College District,Austin,TX,USA,,,Public,,2-year
+395,Alamo Colleges District,San Antonio,TX,USA,,,Public,,2-year
+396,Lone Star College System,The Woodlands,TX,USA,,,Public,,2-year
+397,Tarrant County College,Fort Worth,TX,USA,,,Public,,2-year
+398,Collin College,McKinney,TX,USA,,,Public,,2-year
+399,El Paso Community College,El Paso,TX,USA,,,Public,,2-year
+400,San Jacinto College,Pasadena,TX,USA,,,Public,,2-year
+401,South Texas College,McAllen,TX,USA,,,Public,,2-year
+402,Amarillo College,Amarillo,TX,USA,,,Public,,2-year
+403,Midland College,Midland,TX,USA,,,Public,,2-year
+404,Odessa College,Odessa,TX,USA,,,Public,,2-year
+405,Galveston College,Galveston,TX,USA,,,Public,,2-year
+406,Blinn College,Brenham,TX,USA,,,Public,,2-year
+407,Tyler Junior College,Tyler,TX,USA,,,Public,,2-year
+408,Navarro College,Corsicana,TX,USA,,,Public,,2-year
+409,Grayson College,Denison,TX,USA,,,Public,,2-year
+410,Coastal Bend College,Beeville,TX,USA,,,Public,,2-year
+411,Angelina College,Lufkin,TX,USA,,,Public,,2-year
+412,Victoria College,Victoria,TX,USA,,,Public,,2-year
+413,Kilgore College,Kilgore,TX,USA,,,Public,,2-year
+414,Panola College,Carthage,TX,USA,,,Public,,2-year
+415,Clarendon College,Clarendon,TX,USA,,,Public,,2-year
+416,Frank Phillips College,Borger,TX,USA,,,Public,,2-year
+417,Southwest Texas Junior College,Uvalde,TX,USA,,,Public,,2-year
+418,Sul Ross State University Rio Grande College,Uvalde,TX,USA,,,Public,,2-year
+419,Del Mar College,Corpus Christi,TX,USA,https://www.delmar.edu,,Public,,2-year
+420,Laredo College,Laredo,TX,USA,https://www.laredo.edu,,Public,,2-year
+421,Temple College,Temple,TX,USA,https://www.templejc.edu,,Public,,2-year
+422,Wharton County Junior College,Wharton,TX,USA,https://www.wcjc.edu,,Public,,2-year
+423,University of North Texas,Denton,TX,USA,https://www.unt.edu,,Public,,4-year
+424,Prairie View A&M University,Prairie View,TX,USA,https://www.pvamu.edu,,Public,,4-year
+425,Texas A&M International University,Laredo,TX,USA,https://www.tamiu.edu,,Public,,4-year
+426,Texas A&M University-Central Texas,Killeen,TX,USA,https://www.tamuct.edu,,Public,,4-year
+427,University of North Texas Health Science Center,Fort Worth,TX,USA,https://www.unthsc.edu,,Public,,4-year
+428,Texas State Technical College,Waco,TX,USA,https://www.tstc.edu,,Public,,4-year
+429,University of Dallas,Irving,TX,USA,https://www.udallas.edu,,Private,,4-year
+430,Dallas Baptist University,Dallas,TX,USA,https://www.dbu.edu,,Private,,4-year
+431,University of the Incarnate Word,San Antonio,TX,USA,https://www.uiw.edu,,Private,,4-year
+432,Our Lady of the Lake University,San Antonio,TX,USA,https://www.ollusa.edu,,Private,,4-year
+433,Austin College,Sherman,TX,USA,https://www.austincollege.edu,,Private,,4-year
+434,Huston-Tillotson University,Austin,TX,USA,https://www.htu.edu,,Private,,4-year

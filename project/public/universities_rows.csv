@@ -1,0 +1,101 @@
+id,name,city,state,country,website,unitid,ownership,source,level
+1,University of California," Berkeley",Berkeley,CA,USA,,https://www.berkeley.edu,,Public
+2,University of California," Los Angeles (UCLA)",Los Angeles,CA,USA,,https://www.ucla.edu,,Public
+3,University of California," San Diego (UCSD)",La Jolla,CA,USA,,https://www.ucsd.edu,,Public
+4,University of California," Davis",Davis,CA,USA,,https://www.ucdavis.edu,,Public
+5,University of California," Irvine",Irvine,CA,USA,,https://www.uci.edu,,Public
+6,University of California," Santa Barbara",Santa Barbara,CA,USA,,https://www.ucsb.edu,,Public
+7,University of California," Riverside",Riverside,CA,USA,,https://www.ucr.edu,,Public
+8,University of California," Santa Cruz",Santa Cruz,CA,USA,,https://www.ucsc.edu,,Public
+9,University of California," Merced",Merced,CA,USA,,https://www.ucmerced.edu,,Public
+10,California State University," Los Angeles",Los Angeles,CA,USA,,https://www.calstatela.edu,,Public
+11,California State University," Northridge",Northridge,CA,USA,,https://www.csun.edu,,Public
+12,California State University," Long Beach",Long Beach,CA,USA,,https://www.csulb.edu,,Public
+13,California State University," Fullerton",Fullerton,CA,USA,,https://www.fullerton.edu,,Public
+14,California State University," Sacramento",Sacramento,CA,USA,,https://www.csus.edu,,Public
+15,California State University," San Bernardino",San Bernardino,CA,USA,,https://www.csusb.edu,,Public
+16,California State University," Fresno",Fresno,CA,USA,,https://www.fresnostate.edu,,Public
+17,California State University," San Marcos",San Marcos,CA,USA,,https://www.csusm.edu,,Public
+18,California State University," Stanislaus",Turlock,CA,USA,,https://www.csustan.edu,,Public
+19,California State University," East Bay",Hayward,CA,USA,,https://www.csueastbay.edu,,Public
+20,California State University," Monterey Bay",Seaside,CA,USA,,https://www.csumb.edu,,Public
+21,California State University," Channel Islands",Camarillo,CA,USA,,https://www.csuci.edu,,Public
+22,California State University," Bakersfield",Bakersfield,CA,USA,,https://www.csub.edu,,Public
+23,California State University," Chico",Chico,CA,USA,,https://www.csuchico.edu,,Public
+24,California State University," Dominguez Hills",Carson,CA,USA,,https://www.csudh.edu,,Public
+25,California State University," Humboldt",Arcata,CA,USA,,https://www.humboldt.edu,,Public
+26,California State University," Maritime Academy",Vallejo,CA,USA,,https://www.csum.edu,,Public
+27,San Diego State University,San Diego,CA,USA,https://www.sdsu.edu,,Public,,4-year
+28,San Francisco State University,San Francisco,CA,USA,https://www.sfsu.edu,,Public,,4-year
+29,San José State University,San Jose,CA,USA,https://www.sjsu.edu,,Public,,4-year
+30,Sonoma State University,Rohnert Park,CA,USA,https://www.sonoma.edu,,Public,,4-year
+31,Stanford University,Stanford,CA,USA,https://www.stanford.edu,,Private,,4-year
+32,University of Southern California (USC),Los Angeles,CA,USA,https://www.usc.edu,,Private,,4-year
+33,Pepperdine University,Malibu,CA,USA,https://www.pepperdine.edu,,Private,,4-year
+34,Loyola Marymount University,Los Angeles,CA,USA,https://www.lmu.edu,,Private,,4-year
+35,University of San Diego,San Diego,CA,USA,https://www.sandiego.edu,,Private,,4-year
+36,University of San Francisco,San Francisco,CA,USA,https://www.usfca.edu,,Private,,4-year
+37,Santa Clara University,Santa Clara,CA,USA,https://www.scu.edu,,Private,,4-year
+38,Chapman University,Orange,CA,USA,https://www.chapman.edu,,Private,,4-year
+39,Biola University,La Mirada,CA,USA,https://www.biola.edu,,Private,,4-year
+40,Azusa Pacific University,Azusa,CA,USA,https://www.apu.edu,,Private,,4-year
+41,California Baptist University,Riverside,CA,USA,https://www.calbaptist.edu,,Private,,4-year
+42,California Lutheran University,Thousand Oaks,CA,USA,https://www.callutheran.edu,,Private,,4-year
+43,Concordia University Irvine,Irvine,CA,USA,https://www.cui.edu,,Private,,4-year
+44,Fresno Pacific University,Fresno,CA,USA,https://www.fresno.edu,,Private,,4-year
+45,Point Loma Nazarene University,San Diego,CA,USA,https://www.pointloma.edu,,Private,,4-year
+46,Vanguard University,Costa Mesa,CA,USA,https://www.vanguard.edu,,Private,,4-year
+47,La Sierra University,Riverside,CA,USA,https://www.lasierra.edu,,Private,,4-year
+48,Westmont College,Santa Barbara,CA,USA,https://www.westmont.edu,,Private,,4-year
+49,Whittier College,Whittier,CA,USA,https://www.whittier.edu,,Private,,4-year
+50,Notre Dame de Namur University,Belmont,CA,USA,https://www.ndnu.edu,,Private,,4-year
+51,Dominican University of California,San Rafael,CA,USA,https://www.dominican.edu,,Private,,4-year
+52,Mount Saint Mary's University,Los Angeles,CA,USA,https://www.msmu.edu,,Private,,4-year
+53,Occidental College,Los Angeles,CA,USA,https://www.oxy.edu,,Private,,4-year
+54,The Master’s University,Santa Clarita,CA,USA,https://www.masters.edu,,Private,,4-year
+55,Simpson University,Redding,CA,USA,https://www.simpsonu.edu,,Private,,4-year
+56,William Jessup University,Rocklin,CA,USA,https://www.jessup.edu,,Private,,4-year
+57,Southern California Seminary,El Cajon,CA,USA,https://www.socalsem.edu,,Private,,4-year
+58,Bethesda University,Anaheim,CA,USA,https://www.buc.edu,,Private,,4-year
+59,St. Katherine University,San Marcos,CA,USA,https://www.stkath.org,,Private,,4-year
+60,San Diego Christian College,Santee,CA,USA,https://www.sdcc.edu,,Private,,4-year
+61,Life Pacific University,San Dimas,CA,USA,https://www.lifepacific.edu,,Private,,4-year
+62,John Paul the Great Catholic University,Escondido,CA,USA,https://www.jpcatholic.edu,,Private,,4-year
+63,California Institute of Technology (Caltech),Pasadena,CA,USA,https://www.caltech.edu,,Private,,4-year
+64,California Institute of the Arts (CalArts),Valencia,CA,USA,https://www.calarts.edu,,Private,,4-year
+65,ArtCenter College of Design,Pasadena,CA,USA,https://www.artcenter.edu,,Private,,4-year
+66,Otis College of Art and Design,Los Angeles,CA,USA,https://www.otis.edu,,Private,,4-year
+67,Academy of Art University,San Francisco,CA,USA,https://www.academyart.edu,,Private,,4-year
+68,California College of the Arts,San Francisco,CA,USA,https://www.cca.edu,,Private,,4-year
+69,NewSchool of Architecture and Design,San Diego,CA,USA,https://www.newschoolarch.edu,,Private,,4-year
+70,Musicians Institute,Hollywood,CA,USA,https://www.mi.edu,,Private,,4-year
+71,Columbia College Hollywood,Los Angeles,CA,USA,https://www.columbiacollege.edu,,Private,,4-year
+72,California Christian College,Fresno,CA,USA,https://www.calchristian.edu,,Private,,4-year
+73,Humphreys University,Stockton,CA,USA,https://www.humphreys.edu,,Private,,4-year
+74,National University,San Diego,CA,USA,https://www.nu.edu,,Private,,4-year
+75,West Coast University,Los Angeles,CA,USA,https://westcoastuniversity.edu,,Private,,4-year
+76,Saybrook University,Pasadena,CA,USA,https://www.saybrook.edu,,Private,,4-year
+77,Alliant International University,San Diego,CA,USA,https://www.alliant.edu,,Private,,4-year
+78,Touro University California,Vallejo,CA,USA,https://www.tu.edu,,Private,,4-year
+79,Pacific Union College,Angwin,CA,USA,https://www.puc.edu,,Private,,4-year
+80,Zaytuna College,Berkeley,CA,USA,https://www.zaytuna.edu,,Private,,4-year
+81,Fielding Graduate University,Santa Barbara,CA,USA,https://www.fielding.edu,,Private,,4-year
+82,Claremont Graduate University,Claremont,CA,USA,https://www.cgu.edu,,Private,,4-year
+83,Keck Graduate Institute,Claremont,CA,USA,https://www.kgi.edu,,Private,,4-year
+84,Southern California University of Health Sciences,Whittier,CA,USA,https://www.scuhs.edu,,Private,,4-year
+85,Life Chiropractic College West,Hayward,CA,USA,https://lifewest.edu,,Private,,4-year
+86,California Northstate University,Elk Grove,CA,USA,https://www.cnsu.edu,,Private,,4-year
+87,California Health Sciences University,Clovis,CA,USA,https://www.chsu.edu,,Private,,4-year
+88,Northwestern Polytechnic University,Fremont,CA,USA,https://www.npu.edu,,Private,,4-year
+89,Lincoln University,Oakland,CA,USA,https://www.lincolnuca.edu,,Private,,4-year
+90,Pacific Oaks College,Pasadena,CA,USA,https://www.pacificoaks.edu,,Private,,4-year
+91,Los Angeles Pacific University,San Dimas,CA,USA,https://www.lapu.edu,,Private,,4-year
+92,Horizons University (California Branch),Los Angeles,CA,USA,https://www.horizonsuniversity.org,,Private,,4-year
+93,Hope College of Arts & Sciences,Anaheim,CA,USA,https://www.hcas.edu,,Private,,4-year
+94,Chicago School of Professional Psychology (LA Campus),Los Angeles,CA,USA,https://www.thechicagoschool.edu,,Private,,4-year
+95,"California Polytechnic State University, San Luis Obispo",San Luis Obispo,CA,USA,https://www.calpoly.edu,,Public,,4-year
+96,"California State Polytechnic University, Pomona",Pomona,CA,USA,https://www.cpp.edu,,Public,,4-year
+97,Allan Hancock College,Santa Maria,CA,USA,https://www.hancockcollege.edu,,Public,,2-year
+98,American River College,Sacramento,CA,USA,https://arc.losrios.edu,,Public,,2-year
+99,Antelope Valley College,Lancaster,CA,USA,https://www.avc.edu,,Public,,2-year
+100,Bakersfield College,Bakersfield,CA,USA,https://www.bakersfieldcollege.edu,,Public,,2-year
